@@ -1,3 +1,11 @@
+a.active {
+  color: #333;
+  text-transform: capitalize;
+}
+a {
+  color: crimson;
+  padding: 0 10px;
+}
 .App {
   text-align: center;
 }
